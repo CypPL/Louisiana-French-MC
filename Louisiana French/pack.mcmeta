@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 84,
+        "description": "MC en fran\u00E7ais cadien.",
+        "supported_formats": [84,88]
+    }
+}
