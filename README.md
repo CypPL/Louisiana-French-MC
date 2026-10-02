@@ -13,7 +13,7 @@ I am *not finished* with this project. It should still be usable at any completi
 I should next be tackling advancements and moving through more systematically.
 
 # How to Add / Troubleshooting
-The file and the folders that it's in can be added straight into the Minecraft resource pack folder.
+The file and the folders that it's in can be added straight into the Minecraft resource pack folder. Leave out the README. It currently says that "this pack is broken or made for an unknown version of Minecraft." It will still work, I haven't figured that out yet.
 
 You will know that it is working if the pickaxe is a "pic" and not a "pioche" (I will eventually get to doing further parts, including the menu screen, which should make it far quicker to check.)
 
