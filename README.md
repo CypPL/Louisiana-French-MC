@@ -2,13 +2,21 @@
 
 This project provides a Minecraft translation resource pack that works off the back of *Français (Canada)* and renders the necessary words/terms/sentences/etc. in something more comfortable for a typical Louisiana French speaker. It depends on selecting "Français (Canada)" in-game to function (i.e. "Français (Louisiane)" will not show up in the language list).
 
-I am not currently done with this project. It is still usable at any completion level, but so far I have mostly only done:
+I am *not finished* with this project. It should still be usable at any completion level, but so far I have mostly only done:
 
+- tools
 - mobs
 - mob subtitles
+- various (random) blocks
 - colors
 
-# How to Add
+I should next be tackling advancements and moving through more systematically.
+
+# How to Add / Troubleshooting
 The file and the folders that it's in can be added straight into the Minecraft resource pack folder.
 
-TODO put the folders into a master folder named "Francais (Louisiane)" so that it can be plug & play. Until then, that folder must be made manually within the Resource Packs folder, and then assets/minecraft/lang/fr_ca.json dropped into it.
+You will know that it is working if the pickaxe is a "pic" and not a "pioche" (I will eventually get to doing further parts, including the menu screen, which should make it far quicker to check.)
+
+If it is not working, make sure that sitting inside of the minecraft/resourcepacks folder is a folder called something like "Louisiana French", and within that there are two things: pack.mcmeta and a folder called assets (with its contents). It must follow this set-up to work.
+
+Otherwise, check that pack.mcmeta is updated to allow for the version of Minecraft you are running. You may need to adjust the range "supported values" to encompass your correct version. See the wiki for the correct values: https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack#Pack_format_range_(optional)
