@@ -17,6 +17,6 @@ The file and the folders that it's in can be added straight into the Minecraft r
 
 You will know that it is working if the pickaxe is a "pic" and not a "pioche" (I will eventually get to doing further parts, including the menu screen, which should make it far quicker to check.)
 
-If it is not working, make sure that sitting inside of the minecraft/resourcepacks folder is a folder called something like "Louisiana French", and within that there are two things: pack.mcmeta and a folder called assets (with its contents). It must follow this set-up to work.
+If it is not working, first ensure that your in-game language is set to "Français (Canada)". Then make sure that sitting inside of the "/minecraft/resourcepacks" folder is a folder called something like "Louisiana French", and within that there are two things: pack.mcmeta and a folder called "assets" (with its proper contents). It must follow this exact set-up to work.
 
 Otherwise, check that pack.mcmeta is updated to allow for the version of Minecraft you are running. You may need to adjust the range "supported values" to encompass your correct version. See the wiki for the correct values: https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack#Pack_format_range_(optional)
