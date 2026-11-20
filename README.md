@@ -6,17 +6,18 @@ I am *not finished* with this project. It should still be usable at any completi
 
 - tools
 - mobs
-- mob subtitles
+- most of the subtitles involving mobs
 - various (random) blocks
 - colors
+- advancements (Adventure)
 
 I should next be tackling advancements and moving through more systematically.
 
 # How to Add / Troubleshooting
-The file and the folders that it's in can be added straight into the Minecraft resource pack folder. Leave out the README. It currently says that "this pack is broken or made for an unknown version of Minecraft." It will still work, I haven't figured that out yet.
+The file and the folders that it's in can be added straight into the Minecraft resource pack folder. Leave out the README. It currently says that "this pack is broken or made for an unknown version of Minecraft." It will still work like that, I just haven't figured that out yet.
 
-You will know that it is working if the pickaxe is a "pic" and not a "pioche" (I will eventually get to doing further parts, including the menu screen, which should make it far quicker to check.)
+You will know that it is working if the button for singleplayer says "Partie solo :)" with a smiley face (this is a temporary check to make it quicker to verify).
 
-If it is not working, first ensure that your in-game language is set to "Français (Canada)". Then make sure that sitting inside of the "/minecraft/resourcepacks" folder is a folder called something like "Louisiana French", and within that there are two things: pack.mcmeta and a folder called "assets" (with its proper contents). It must follow this exact set-up to work.
+If it is not working, first ensure that your in-game language is set to "Français (Canada)". Then make sure that sitting inside of the "/minecraft/resourcepacks" folder is a folder called something like "Louisiana French", and within that there are two (2) things: pack.mcmeta and a folder called "assets" (with its proper contents). It must follow this exact set-up to work.
 
-Otherwise, check that pack.mcmeta is updated to allow for the version of Minecraft you are running. You may need to adjust the range "supported values" to encompass your correct version. See the wiki for the correct values: https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack#Pack_format_range_(optional)
+Otherwise, check that pack.mcmeta is updated to allow for the version of Minecraft you are running. You may need to adjust the range "supported values" to encompass your correct version (if I have allowed it to be out-of-date). See the wiki for the correct values: https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack#Pack_format_range_(optional)
