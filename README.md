@@ -10,6 +10,7 @@ I am *not finished* with this project. It should still be usable at any completi
 - various (random) blocks
 - colors
 - advancements (Adventure)
+- advancements (The End)
 
 I should next be tackling advancements and moving through more systematically.
 
