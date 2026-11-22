@@ -14,7 +14,7 @@ I am *not finished* with this project. It should still be usable at any completi
 I should next be tackling advancements and moving through more systematically.
 
 # How to Add / Troubleshooting
-The file and the folders that it's in can be added straight into the Minecraft resource pack folder. Leave out the README. It currently says that "this pack is broken or made for an unknown version of Minecraft." It will still work like that, I just haven't figured that out yet.
+The file and the folders that it's in can be added straight into the Minecraft resource pack folder. Leave out the README.
 
 You will know that it is working if the button for singleplayer says "Partie solo :)" with a smiley face (this is a temporary check to make it quicker to verify).
 
