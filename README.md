@@ -14,10 +14,10 @@ I am *not finished* with this project. It should still be usable at any completi
 I should next be tackling advancements and moving through more systematically.
 
 # How to Add / Troubleshooting
-The file and the folders that it's in can be added straight into the Minecraft resource pack folder. Leave out the README.
+Download the zip file and extract it. Then simply drop the extracted folder into the Minecraft "resourcepacks" folder.
 
 You will know that it is working if the button for singleplayer says "Partie solo :)" with a smiley face (this is a temporary check to make it quicker to verify).
 
 If it is not working, first ensure that your in-game language is set to "Français (Canada)". Then make sure that sitting inside of the "/minecraft/resourcepacks" folder is a folder called something like "Louisiana French", and within that there are two (2) things: pack.mcmeta and a folder called "assets" (with its proper contents). It must follow this exact set-up to work.
 
-Otherwise, check that pack.mcmeta is updated to allow for the version of Minecraft you are running. You may need to adjust the range "supported values" to encompass your correct version (if I have allowed it to be out-of-date). See the wiki for the correct values: https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack#Pack_format_range_(optional)
+Otherwise, check that pack.mcmeta is updated to allow for the version of Minecraft you are running. You may need to adjust the format values to encompass your correct version (if I have allowed it to be out-of-date). See the wiki for the correct values: https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack#Pack_format_range_(optional)
