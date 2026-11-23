@@ -11,7 +11,7 @@ I am *not finished* with this project. It should still be usable at any completi
 - colors
 - advancements
 
-I should next be tackling advancements and moving through more systematically.
+I should next be tackling biomes, blocks, and items.
 
 # How to Add / Troubleshooting
 Download the zip file and extract it. Then simply drop the extracted folder into the Minecraft "resourcepacks" folder.
