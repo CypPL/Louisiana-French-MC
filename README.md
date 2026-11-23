@@ -9,7 +9,7 @@ I am *not finished* with this project. It should still be usable at any completi
 - most of the subtitles involving mobs
 - various (random) blocks
 - colors
-- advancements (Adventure, The End, Husbandry)
+- advancements (Adventure, The End, Husbandry, Nether)
 
 I should next be tackling advancements and moving through more systematically.
 
