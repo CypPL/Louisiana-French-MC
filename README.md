@@ -2,7 +2,7 @@
 
 This project provides a Minecraft translation resource pack that works off the back of *Français (Canada)* and renders the necessary words/terms/sentences/etc. in something more comfortable for a typical Louisiana French speaker. It depends on selecting "Français (Canada)" in-game to function (i.e. "Français (Louisiane)" will not show up in the language list).
 
-I am *not finished* with this project. It should still be usable at any completion level, but so far I have mostly only done:
+I am *not finished* with this project. It should still be usable at any completion level, so feel free to use it at any point! So far, I have completed:
 
 - tools
 - mobs
@@ -10,8 +10,9 @@ I am *not finished* with this project. It should still be usable at any completi
 - various (random) blocks
 - colors
 - advancements
+- biomes
 
-I should next be tackling biomes, blocks, and items.
+I should next be tackling: wood blocks.
 
 # How to Add / Troubleshooting
 Download the zip file and extract it. Then simply drop the extracted folder into the Minecraft "resourcepacks" folder.
