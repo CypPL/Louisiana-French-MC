@@ -7,12 +7,13 @@ I am *not finished* with this project. It should still be usable at any completi
 - tools
 - mobs
 - most of the subtitles involving mobs
-- various (random) blocks
 - colors
-- advancements
+- all advancements
 - biomes
+- all woods
+- various other random blocks
 
-I should next be tackling: wood blocks.
+I should next be tackling: rock blocks.
 
 # How to Add / Troubleshooting
 Download the zip file and extract it. Then simply drop the extracted folder into the Minecraft "resourcepacks" folder.
